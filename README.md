@@ -14,8 +14,9 @@ Collect stars by solving puzzles. Two puzzles will be made available on each day
 
 | Day     | Name                                                    | Python                         | Javascript                     | 
 |:-------:|:--------------------------------------------------------|:------------------------------:|:------------------------------:|
-| 01      | [Sonar Sweep][day01]                                    | [][py01]     | [:heavy_check_mark:][js01]     |                              
-| 02      | [Dive!][day02]                                          | [][py02]     | [][js02]     |                              
+| 01      | [Historian Hysteria][day01]                             | [][py01]                       | [:heavy_check_mark:][js01]     |                              
+| 02      | [Red-Nosed Reports][day02]                              | [][py02]                       | [:heavy_check_mark:][js02]     |                              
+| 02      | [Mull It Over][day03]                              | [][py03]                       | [][js03]     |                              
                     
 
 
