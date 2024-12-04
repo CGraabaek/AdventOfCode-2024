@@ -16,7 +16,8 @@ Collect stars by solving puzzles. Two puzzles will be made available on each day
 |:-------:|:--------------------------------------------------------|:------------------------------:|:------------------------------:|
 | 01      | [Historian Hysteria][day01]                             | [][py01]                       | [:heavy_check_mark:][js01]     |                              
 | 02      | [Red-Nosed Reports][day02]                              | [][py02]                       | [:heavy_check_mark:][js02]     |                              
-| 02      | [Mull It Over][day03]                              | [][py03]                       | [][js03]     |                              
+| 03      | [Mull It Over][day03]                                   | [][py03]                       | [:heavy_check_mark:][js03]     |                              
+| 05      | [Ceres Search][day04]                                   | [][py04]                       | [][js04]                       |                              
                     
 
 
